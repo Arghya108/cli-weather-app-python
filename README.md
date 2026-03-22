@@ -3,3 +3,4 @@
 
 
 A real-time CLI weather application built with Python using the OpenWeatherMap API. Displays temperature, humidity, wind speed, and visibility in a formatted terminal card. Supports Celsius/Fahrenheit, multi-city search, and full error handling — no external libraries required.
+JUST DOWNLOAD AND CLICK !
